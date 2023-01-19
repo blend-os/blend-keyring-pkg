@@ -1,0 +1,6 @@
+*
+
+!.gitignore
+!PKGBUILD
+!blend-keyring.install
+!.SRCINFO
